@@ -5,6 +5,7 @@ export default function Home() {
   return  (
     <div style={{color: 'red'}}>
       <Button variant='contained' >save</Button>
+      <p>hi</p>
     </div>
   )
 }
